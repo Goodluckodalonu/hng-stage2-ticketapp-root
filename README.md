@@ -22,9 +22,9 @@ Each app includes:
 
 | Framework | Repository Link | Live Demo |
 |------------|-----------------|------------|
-| **React** | [hng-stage2-ticketapp-react](https://github.com/Goodluckodalonu/hng-stage2-ticketapp-react) | _(Add link after deployment)_ |
-| **Vue** | [hng-stage2-ticketapp-vue](https://github.com/Goodluckodalonu/hng-stage2-ticketapp-vue) | _(Add link after deployment)_ |
-| **Twig** | [hng-stage2-ticketapp-twig](https://github.com/Goodluckodalonu/hng-stage2-ticketapp-twig) | _(Add link after deployment)_ |
+| **React** | [hng-stage2-ticketapp-react](https://github.com/Goodluckodalonu/hng-stage2-ticketapp-react) | [Live react link](https://ticket-app-mu-eight.vercel.app/) |
+| **Vue** | [hng-stage2-ticketapp-vue](https://github.com/Goodluckodalonu/hng-stage2-ticketapp-vue) | [Live vue link](https://ticket-app-vue-hng.vercel.app/) |
+| **Twig** | [hng-stage2-ticketapp-twig](https://github.com/Goodluckodalonu/hng-stage2-ticketapp-twig) | [Live twig link](https://ticket-app-twig-hng.onrender.com/) |
 
 ---
 
@@ -45,7 +45,7 @@ These assets are imported into each frontend framework for consistent visuals.
 
 ### React App
 ```bash
-git clone h
+git clone https://github.com/Goodluckodalonu/hng-stage2-ticketapp-react.git
 cd hng-stage2-ticketapp-react
 npm install
 npm start

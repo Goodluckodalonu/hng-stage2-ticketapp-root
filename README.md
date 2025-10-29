@@ -45,7 +45,7 @@ These assets are imported into each frontend framework for consistent visuals.
 
 ### React App
 ```bash
-git clone https://github.com/Goodluckodalonu/hng-stage2-ticketapp-react.git
+git clone h
 cd hng-stage2-ticketapp-react
 npm install
 npm start
